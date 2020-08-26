@@ -1,2 +1,2 @@
-# cybersecurity-assignment01
-answer of assignment 1(Cyber Security )
+# cybersecurity-assignments
+Answers of assignment (Cyber Security )
